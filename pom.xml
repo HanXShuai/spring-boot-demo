@@ -17,6 +17,7 @@
         <module>spring-boot-aop</module>
         <module>spring-boot-activemq-demo</module>
         <module>spring-boot-base</module>
+        <module>spring-boot-transaction-demo</module>
     </modules>
 
     <dependencies>
